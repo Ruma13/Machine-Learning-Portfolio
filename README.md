@@ -1,6 +1,5 @@
 # 🏠 House Price Prediction 
 
-![Kaggle Logo](https://upload.wikimedia.org/wikipedia/commons/6/6b/Kaggle_logo.png)
 
 ## Project Overview
 This project predicts house prices using the **Kaggle House Prices dataset**.  
@@ -61,7 +60,9 @@ train['HouseAge'] = train['YrSold'] - train['YearBuilt']
 features = ['LotArea','OverallQual','TotalSF','HouseAge']
 X = train[features]
 y = train['SalePrice']
+
 ```
+![Alt Text](Top_correlated_features_with_SalePrice.jpg)
 
 ### 3. Train-Test Split
 
