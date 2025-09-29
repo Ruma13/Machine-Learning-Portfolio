@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction (Simple Version)
+# 🏠 House Price Prediction 
 
 ## Project Overview
 This project predicts house prices using the **Kaggle House Prices dataset**.  
