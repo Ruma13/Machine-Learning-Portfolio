@@ -102,6 +102,7 @@ rf.fit(X_train, y_train)
 preds_rf = rf.predict(X_val)
 print("Random Forest RMSE:", math.sqrt(mean_squared_error(y_val, preds_rf)))
 ```
+![Alt Text](random_xg.jpg)
 
 ### 7. Save Model
 
