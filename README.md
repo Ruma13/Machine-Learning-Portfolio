@@ -90,6 +90,8 @@ import math
 rmse = math.sqrt(mean_squared_error(y_val, preds))
 print("RMSE:", rmse)
 ```
+![Alt Text](model_comparison_RMSE_R^2.jpg)
+
 
 ### 6. Train Better Model (Random Forest)
 
